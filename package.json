@@ -1,0 +1,14 @@
+{
+  "name": "allantp03",
+  "version": "1.0.0",
+  "description": "A simple Hello World Node.js app for estiam",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "mongodb": "^4.0.0"
+  },
+  "author": "Allan Ngouajio",
+  "license": "ISC"
+}
